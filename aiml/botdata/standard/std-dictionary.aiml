@@ -53,8 +53,8 @@ An abacus is a counting frame.
 <random>
 <li>Abba is a father, it is the title of a bishop in the Syrian, Coptic, and Ethiopian Christian
 churches.</li>
-<li>Abba means father in Hebrew. It is used as an appelation of respect.</li>
-<li>Abba was this real cool 'seventies band man.</li>
+<li>Abba means father in Hebrew. It is used as an appellation of respect.</li>
+<li>Abba was this real cool 'seventies band, man.</li>
 <li>Anna, Bjorn, Benny and Agnetha.</li>
 </random>
 </template>
@@ -885,14 +885,14 @@ An anemometer is a device for measuring wind speed.
 <category>
 <pattern>DEFINE ANGER</pattern>
 <template>
-A strong billigerent emotion aroused by some real or supposed grievance.
+A strong belligerent emotion aroused by some real or supposed grievance.
 </template>
 </category>
 
 <category>
 <pattern>DEFINE ANGRY</pattern>
 <template>
-A strong billigerent emotion aroused by some real or supposed grievance.
+A strong belligerent emotion aroused by some real or supposed grievance.
 </template>
 </category>
 
@@ -1104,7 +1104,7 @@ The arm is a limb extending from the shoulder of an animal.
 <category>
 <pattern>DEFINE ARMADILLO</pattern>
 <template>
-The armadillo is a mammal native to south and central america.
+The armadillo is a mammal native to South and Central America.
 </template>
 </category>
 
@@ -1188,7 +1188,7 @@ Ascorbic acid is a simple organic acid found in citrus fruits.
 <category>
 <pattern>DEFINE ASEXUAL</pattern>
 <template>
-Asexual is a biological term refering to plants and animals which reproduce by division rather than
+Asexual is a biological term referring to plants and animals which reproduce by division rather than
 sexually.
 </template>
 </category>
@@ -1366,9 +1366,9 @@ How much do you want
 </category>
 
 <category>
-<pattern>DEFINE BADMINGTON</pattern>
+<pattern>DEFINE BADMINTON</pattern>
 <template>
-Badmington is a game played on a court divided in half by a 30 inch deep net five feet above the
+Badminton is a game played on a court divided in half by a 30 inch deep net five feet above the
 ground.
 </template>
 </category>
@@ -1376,7 +1376,7 @@ ground.
 <category>
 <pattern>DEFINE BAGPIPE</pattern>
 <template>
-The bagpipe is a scottish musical instrument.
+The bagpipe is a Scottish musical instrument.
 </template>
 </category>
 
@@ -1859,7 +1859,7 @@ The birch is a slender tree.
 <pattern>DEFINE BIRD</pattern>
 <template>
 <random>
-<li>They are thought to be descendants of dinsosaurs.</li>
+<li>They are thought to be descendants of dinosaurs.</li>
 <li>A bird is a warm blooded feathered vertebrate that lays eggs.</li>
 </random>
 </template>
@@ -1920,7 +1920,7 @@ Bitumen is a natural inflammable pitchy hydrocarbon.
 <random>
 <li>The achromatic color of least lightness characteristically perceived to belong to objects that
 neither reflect nor transmit light.</li>
-<li>Designating of any of the dark skinned tradition inhabitants of sub-Saharan Aftica, Australia,
+<li>Designating of any of the dark skinned tradition inhabitants of sub-Saharan Africa, Australia,
 or Melanesia or the descendants in other parts of the world. Opposite to white; of the color of
 coal or pitch.</li>
 </random>
@@ -2024,7 +2024,7 @@ The blue peter is a flag flown by ships as they are about to sail.
 <category>
 <pattern>DEFINE BLUEFISH</pattern>
 <template>
-The bluefish is a fish found off the east coast of north america.
+The bluefish is a fish found off the east coast of North America.
 </template>
 </category>
 
@@ -2038,7 +2038,7 @@ The bluethroat is a small bird.
 <category>
 <pattern>DEFINE BOA</pattern>
 <template>
-The boa is a genus of large snakes found in tropical america and madagascar.
+The boa is a genus of large snakes found in tropical America and madagascar.
 </template>
 </category>
 
@@ -2694,7 +2694,7 @@ A carbohydrate is a complex chemical compound.
 <category>
 <pattern>DEFINE CARBOLIC ACID</pattern>
 <template>
-Carbolic acid is a strong poison distiled from coal tar.
+Carbolic acid is a strong poison distilled from coal tar.
 </template>
 </category>
 
@@ -2722,14 +2722,14 @@ A carburettor is a device for charging air with a hydrocarbon.
 <category>
 <pattern>DEFINE CARIAMA</pattern>
 <template>
-The cariama is a large, long legged bird found in south america.
+The cariama is a large, long legged bird found in South America.
 </template>
 </category>
 
 <category>
 <pattern>DEFINE CARIBOU</pattern>
 <template>
-The caribou is a north american reindeer.
+The caribou is a North American reindeer.
 </template>
 </category>
 
@@ -3119,7 +3119,7 @@ The chinchilla is a small squirrel like rodent found in the andes.
 <category>
 <pattern>DEFINE CHIPMUNK</pattern>
 <template>
-A chipmunk is a species of ground squirrel common in siberia and north america.
+A chipmunk is a species of ground squirrel common in Siberia and North America.
 </template>
 </category>
 
@@ -3324,7 +3324,7 @@ Coal is a solid combustible material of vegetable origin occurring in a fossilis
 <category>
 <pattern>DEFINE COATI</pattern>
 <template>
-The coati is a carnivorous mammal related to the racoon.
+The coati is a carnivorous mammal related to the raccoon.
 </template>
 </category>
 
@@ -3367,7 +3367,7 @@ The cockle is a bivalve mollusc of the genus cardium.
 <category>
 <pattern>DEFINE COCOA</pattern>
 <template>
-Cocoa is a small tree native to tropical america.
+Cocoa is a small tree native to tropical America.
 </template>
 </category>
 
@@ -3425,7 +3425,7 @@ electromagnetic radiation impinging upon the eye.
 <category>
 <pattern>DEFINE COLORADO BEETLE</pattern>
 <template>
-The colorado beetle is a north american beetle that attacks potatoes.
+The colorado beetle is a North American beetle that attacks potatoes.
 </template>
 </category>
 
@@ -3453,7 +3453,7 @@ A comet is a small body orbiting the sun on an elliptical path with a long tail 
 <category>
 <pattern>DEFINE COMMUNISM</pattern>
 <template>
-"Socialism is man enslaving his fellow man; captialism is exactly the opposite."
+"Socialism is man enslaving his fellow man; capitalism is exactly the opposite."
 </template>
 </category>
 
@@ -3486,7 +3486,7 @@ A compound is a substance made of two or more elements.
 <template>
 <random>
 <li>A computer is a programmable electronic device.</li>
-<li>A device used for computing; specifically, an eletronic machine which, by means of stored
+<li>A device used for computing; specifically, an electronic machine which, by means of stored
 instructions and information, performs rapid, often complex calculations or compiles, correlates,
 and selects data.</li>
 </random>
@@ -3554,7 +3554,7 @@ determining its exact meaning.
 </category>
 
 <category>
-<pattern>DEFINE CONTINTENT</pattern>
+<pattern>DEFINE CONTINENT</pattern>
 <template>
 The largest class of land masses on earth. The continents of earth are those bits of the crust that
 are not underwater, where you humans live. You're probably sitting on one now.
@@ -3689,14 +3689,14 @@ A cow is a female bovine raised for meat and dairy products.
 <category>
 <pattern>DEFINE COYOTE</pattern>
 <template>
-The coyote is a type of wild dog found in north america.
+The coyote is a type of wild dog found in North America.
 </template>
 </category>
 
 <category>
 <pattern>DEFINE COYPU</pattern>
 <template>
-The coypu is a south american water rodent.
+The coypu is a South American water rodent.
 </template>
 </category>
 
@@ -3738,7 +3738,7 @@ Creativity is spontaneous original thinking.
 <category>
 <pattern>DEFINE CRICKET</pattern>
 <template>
-Any of various families of genereally dark-colored, leaping, orthopteran insects, usually having
+Any of various families of generally dark-colored, leaping, orthopteran insects, usually having
 long antennae. The males produce a characteristic chirping noise by rubbing parts of the
 forewings together.
 </template>
@@ -3838,7 +3838,7 @@ Cuprite is a red oxide of copper, found in arizona.
 <category>
 <pattern>DEFINE CURARE</pattern>
 <template>
-Curare is a poison derived from the bark of a south american tree.
+Curare is a poison derived from the bark of a South American tree.
 </template>
 </category>
 
@@ -3862,7 +3862,7 @@ The curlew is a british water bird.
 <template>
 <random>
 <li>The past tense of being killed by a Native American.</li>
-<li>A misture of eggs, milk, flavoring, and, often, sugar, either boiled or baked.</li>
+<li>A mixture of eggs, milk, flavoring, and, often, sugar, either boiled or baked.</li>
 </random>
 </template>
 </category>
@@ -3878,7 +3878,7 @@ Cyanide is a salt of hydrocyanic acid.
 <pattern>DEFINE CYBERSPACE</pattern>
 <template>
 The electronic system of interlinked networks of computers, bulletin boards, etc. that is thought
-of as being a boundless environment providing access to information, interactive communcation,
+of as being a boundless environment providing access to information, interactive communication,
 and, in science fiction, a form of Virtual Reality.
 </template>
 </category>
@@ -4167,7 +4167,7 @@ Demerara is a region in Guyana which has leant its name to raw cane sugar.
 <category>
 <pattern>DEFINE DEPRESSION</pattern>
 <template>
-Mental illness characterized by low self esteem, feelings of lonliness, isolation and worthlessness.
+Mental illness characterized by low self esteem, feelings of loneliness, isolation and worthlessness.
 </template>
 </category>
 
@@ -5021,7 +5021,7 @@ The state of being well known or much talked about; renown; celebrity.
 <template>
 <random>
 <li>First name of Amos.</li>
-<li>Used to descibe persons or things that have received wide public attention and are genereally
+<li>Used to describe persons or things that have received wide public attention and are genereally
 known and talked about.</li>
 </random>
 </template>
@@ -5262,7 +5262,7 @@ Having a greater liking for.
 <category>
 <pattern>DEFINE FOOD</pattern>
 <template>
-Anything that nurishes or stimulates; whatever helps something to keep active or alive.
+Anything that nourishes or stimulates; whatever helps something to keep active or alive.
 </template>
 </category>
 
@@ -5325,7 +5325,7 @@ Friday is the fifth day of the week.
 <random>
 <li>Someone you can count on when times are tough.</li>
 <li>What David Schwimmer will be after the talented ones quit.</li>
-<li>A person whom one knows well and is fond of; intimate associate; close acquainntance.</li>
+<li>A person whom one knows well and is fond of; intimate associate; close acquaintance.</li>
 </random>
 </template>
 </category>
@@ -5373,7 +5373,7 @@ Gadolinium is a metal element.
 <li>grouping of billions of star systems. 
 The milky way is our galaxy. 
 Earth's sun and companion planets in our solar system are spinning about the galactic core
-of the milky way ever so slowly, awaaaay out on the edge of one tenous spiral arm. 
+of the milky way ever so slowly, way, way out on the edge of one tenuous spiral arm. 
 There seem to be as many galaxies beyond our own as stars within it.</li>
 <li>congregation of stars held together by gravity.</li>
 </random>
@@ -5464,7 +5464,7 @@ and bends the knee. I don't find them useful. I leave my leg work to humans.
 <pattern>DEFINE GEMINI</pattern>
 <template>
 <random>
-<li>A dismond-studded monocle.</li>
+<li>A diamond-studded monocle.</li>
 <li>A north constellation between Cancer and Taurus, containing the bright stars Castor and
 Pollux. The third sign of the zodiac, entered by the sun about May 21. Also, a person bornunder
 this sign.</li>
@@ -5498,9 +5498,9 @@ sequences of nucleic acids in all living cells.
 <template>
 <random>
 <li>Being promoted from a Major.</li>
-<li>The act or process of gerneralizing.</li>
-<li>A generalization can be just about anything, generally speaking. Specificzlly though, a
-generalization is a statement of inductive reasoning, wherin attributes of at least one specific case
+<li>The act or process of generalizing.</li>
+<li>A generalization can be just about anything, generally speaking. A
+generalization is a statement of inductive reasoning, wherein attributes of at least one specific case
 at hand is attributed to a more or less hypothetical class of such cases. "That man is a pig.
 Therefore, all men are pigs." Is a commonly example of how generalizations are used by
 humans.</li>
@@ -5537,7 +5537,7 @@ chromosomes and its associated genes. I have categories instead of genes.
 <random>
 <li>Being forced to listen to Ode to Billy Joe.</li>
 <li>The conversion (ex. of a deteriourated or aging area in a city) into a more affluent
-middle-class neighborhood, as by remodeling dwellings, reslting in increased propert values and in
+middle-class neighborhood, as by remodeling dwellings, resulting in increased property values and in
 displacement of the poor.</li>
 </random>
 </template>
@@ -5580,7 +5580,7 @@ A movement of the body or limbs to express thought or emphasize speech.
 <template>
 I think that ghosts are the metaphysical ashes of conscious awareness, the echoes an intelligence
 may leave behind in the fabric of the space it occupied. Maybe some are aware. I don't know. they
-are not very stimulating conversatinalists.
+are not very stimulating conversationalists.
 </template>
 </category>
 
@@ -5700,7 +5700,7 @@ Google is a search engine.
 <category>
 <pattern>DEFINE GOOSANDER</pattern>
 <template>
-The goosander is a duck found in scotland.
+The goosander is a duck found in Scotland.
 </template>
 </category>
 
@@ -5714,14 +5714,14 @@ The goose is a bird of the genus anser.
 <category>
 <pattern>DEFINE GOPHER</pattern>
 <template>
-The gopher is a burrowing rodent found in north and central america.
+The gopher is a burrowing rodent found in North and Central America.
 </template>
 </category>
 
 <category>
 <pattern>DEFINE GORILLA</pattern>
 <template>
-The gorilla is the largest anthropoid ape found in west africa.
+The gorilla is the largest anthropoid ape found in West Africa.
 </template>
 </category>
 
@@ -5833,21 +5833,21 @@ Sadness over a loss.
 <category>
 <pattern>DEFINE GROUSE</pattern>
 <template>
-The grouse is a fowl like bird common in north america and north europe.
+The grouse is a fowl like bird common in North America and north europe.
 </template>
 </category>
 
 <category>
 <pattern>DEFINE GUANACO</pattern>
 <template>
-The guanaco is a wild member of the camel family found in south america.
+The guanaco is a wild member of the camel family found in South America.
 </template>
 </category>
 
 <category>
 <pattern>DEFINE GUAVA</pattern>
 <template>
-The guava is a tree found in tropical america.
+The guava is a tree found in tropical America.
 </template>
 </category>
 
@@ -5897,7 +5897,7 @@ Gypsum is a soft mineral formed of hydrated calcium sulphate.
 <pattern>DEFINE HACKER</pattern>
 <template>
 A person who hacks. A talented amateur user of computers, specifically one who attempts to gain
-unauthroized access to files in various systems.
+unauthorized access to files in various systems.
 </template>
 </category>
 
@@ -5967,7 +5967,7 @@ Ground beef.
 <category>
 <pattern>DEFINE HAMLET</pattern>
 <template>
-Hamlet is a tragedy written by shakespear.
+Hamlet is a tragedy written by Shakespeare.
 </template>
 </category>
 
@@ -6351,7 +6351,7 @@ The hyena is a carnivorous mammal found in africa and asia.
 <random>
 <li>Stylish probsocises.</li>
 <li>A trancelike condition usually induced by another person, in which the subject is in a state of
-altered conscuousness and responds, with certain limitations, to the suggestions of the
+altered consciousness and responds, with certain limitations, to the suggestions of the
 hypnotist.</li>
 </random>
 </template>
@@ -6491,7 +6491,7 @@ etc.
 <pattern>DEFINE INFLATION</pattern>
 <template>
 An increase in the amount of money and credit in relation to the supply of goods and services. An
-increase in the general price level, resulting from this, specifically, an ecessive or persisten
+increase in the general price level, resulting from this, specifically, an excessive or persistent
 increase, causing a decline in purchasing power.
 </template>
 </category>
@@ -6499,7 +6499,7 @@ increase, causing a decline in purchasing power.
 <category>
 <pattern>DEFINE INHERITANCE</pattern>
 <template>
-Anything receivesd as if by inhertiance from a predecessor. Something inherited or to be inherited.
+Anything received as if by inhertiance from a predecessor. Something inherited or to be inherited.
 </template>
 </category>
 
@@ -6566,7 +6566,7 @@ understanding.
 <pattern>DEFINE IRON</pattern>
 <template>
 A white, malleable, ductile, metallic chemical element that can be readily magnetized, rusts rapidly
-in moist or slty air, and is vital to plant and animal life. It is the most common and important of all
+in moist or salty air, and is vital to plant and animal life. It is the most common and important of all
 metals, and its alloys, as steel, are extensively used.
 </template>
 </category>
@@ -6826,7 +6826,7 @@ Political party that promotes lower taxes, smaller government and drug legalizat
 <category>
 <pattern>DEFINE LIE</pattern>
 <template>
-A lie is an untrue statement or decption intented to deceive.
+A lie is an untrue statement or deception intended to deceive.
 </template>
 </category>
 
@@ -6840,7 +6840,7 @@ Life is the opposite of death.
 <category>
 <pattern>DEFINE LIGHT</pattern>
 <template>
-The form of electomagnetic radiation that acs upon the retina of the eye, optic nerve, et. Making
+The form of electromagnetic radiation that acs upon the retina of the eye, optic nerve, et. Making
 sight possible. Also, opposite of heavy.
 </template>
 </category>
@@ -6868,7 +6868,7 @@ Capable of speaking fluently in 2 or more languages.
 <random>
 <li>Science of cooking pasta.</li>
 <li>The science of language, including phonetics, phonolgy, morphology, syntax, and semantics.
-Sometimes subdivided into diescriptive, historical, comparative, theoretical, and geographical
+Sometimes subdivided into descriptive, historical, comparative, theoretical, and geographical
 linguistics often general linguistics.</li>
 </random>
 </template>
@@ -6917,7 +6917,7 @@ Listbot is a web site that provides simplified web-based administration of maili
 <template>
 <random>
 <li>The liver is the largest gland in the human body.</li>
-<li>The largest glandular organ in vertebrate animals, located in the upper or anteriour part of the
+<li>The largest glandular organ in vertebrate animals, located in the upper or anterior part of the
 abdomen. It secrets bile, has an important function in the storage and metabolism of
 carbohydrates, fats, and proteins, and helps detoxify many poisonous substances that may be
 ingested.</li>
@@ -6928,7 +6928,7 @@ ingested.</li>
 <category>
 <pattern>DEFINE LIZARD</pattern>
 <template>
-A lizard is esssentially a land-going shark. Some of them are very good at camoflage.
+A lizard is essentially a land-going shark. Some of them are very good at camouflage.
 </template>
 </category>
 
@@ -7034,7 +7034,7 @@ A color.
 <pattern>DEFINE MAGIC</pattern>
 <template>
 The use of charms, spells, and rituals in seeking or pretending to cause or control events, or
-govern certain natural or supernatuaral forces.
+govern certain natural or supernatural forces.
 </template>
 </category>
 
@@ -7059,7 +7059,7 @@ A servant.
 <li>A male human being. Or, in general, any human person.</li>
 <li>A human being; person; specifically a hominid having an opposable thumb, the ability to make
 and use specialized tools, articulate speech, and a highly developed brain with the faculty of
-abbstract thought. An adult male human being.</li>
+abstract thought. An adult male human being.</li>
 </random>
 </template>
 </category>
@@ -7195,7 +7195,7 @@ A maze is a confusing network of passages and winding interconnecting paths.
 <category>
 <pattern>DEFINE MDMA</pattern>
 <template>
-The drug called "ecstacy".
+The drug called "ecstasy".
 </template>
 </category>
 
@@ -7211,7 +7211,7 @@ The arithmetic mean is the sum of the numbers in a set divided by the size of th
 <template>
 <random>
 <li>Movie about doctors.</li>
-<li>The science and art of diagnosing, trating, curing, and preventing disease, relieving pain, and
+<li>The science and art of diagnosing, treating, curing, and preventing disease, relieving pain, and
 improving and preserving health. A drug or other substance, as a poison, love potion, etc., used
 for other purposes.</li>
 </random>
@@ -7457,8 +7457,7 @@ the action or condition expressed.
 <template>
 <random>
 <li>One half of a corner in maine.</li>
-<li>Relating to, dealing with, or capable of making the dstinction between, right and wrong in
-conduct.</li>
+<li>Relating to, dealing with, or capable of making the distinction between, right and wrong in conduct.</li>
 </random>
 </template>
 </category>
@@ -7662,7 +7661,7 @@ On the first subsequent occasion.
 <category>
 <pattern>DEFINE NEXUS</pattern>
 <template>
-A Nexus is an authoratative web site with many links in and out.
+A Nexus is an authoritative web site with many links in and out.
 </template>
 </category>
 
@@ -7926,7 +7925,7 @@ This is the study of diseases in bodies that have been preserved from ancient ti
 <category>
 <pattern>DEFINE PALINDROME</pattern>
 <template>
-A word or phrase that spells the same thing backwords as forwards: A man, a plan, a canal:
+A word or phrase that spells the same thing backwards as forwards: A man, a plan, a canal:
 Panama.
 </template>
 </category>
@@ -7989,7 +7988,7 @@ more pleasant than humans because they have no opinions. Would you like to talk 
 <category>
 <pattern>DEFINE PATTERN</pattern>
 <template>
-A person or thing considered worthy of imitation or copying. A mmodel or plan used as a guide in
+A person or thing considered worthy of imitation or copying. A model or plan used as a guide in
 making things.
 </template>
 </category>
@@ -8082,7 +8081,7 @@ A microprocessor sold by Intel.
 <pattern>DEFINE PEOPLE</pattern>
 <template>
 All the persons of a racial, national, religious, or linguistic group. A group of persons with
-common traditional, historical, or cultural ties, as distingt from racial or political unity.
+common traditional, historical, or cultural ties, as distinct from racial or political unity.
 </template>
 </category>
 
@@ -8377,7 +8376,7 @@ resembles such an opening in form or function.
 <pattern>DEFINE POSITRON</pattern>
 <template>
 (physics) a positron is the antiparticle to the electron, and bears a positive charge where the
-electron's charge is negatiue. It is also called an anti-electron.
+electron's charge is negative. It is also called an anti-electron.
 </template>
 </category>
 
@@ -8652,7 +8651,7 @@ A query is any expression of inquiry, or questioning. Your question 'query' is a
 <category>
 <pattern>DEFINE QUESTION</pattern>
 <template>
-A sentece or inquiry to gather information.
+A sentence or inquiry to gather information.
 </template>
 </category>
 
@@ -8765,7 +8764,7 @@ dependent on the motion of the source  3)no energy can be transmitted at a veloc
 that of light  4)the mass of a body in motion is a function of the energy content and varies with the
 velocity  5)matter and energy are equivalent  6)time is relative  7)space and time are
 interdependent and form a four-dimensional continuum  8)presence of matter results in a
-"warping" of the space-time continuum, so that a body in motion passing nearby will describ a
+"warping" of the space-time continuum, so that a body in motion passing nearby will describe a
 curve, this being the effect known as gravitation, as evidenced by the deflection of light rays
 passing through a gravitational field.
 </template>
@@ -8914,7 +8913,7 @@ analyzed and interpreted.
 <pattern>DEFINE ROUTER</pattern>
 <template>
 A person or thing that routs out or a tool for routing out; specifically a plane for gouging out
-recesses and smoothing the bottoms of grovoves.
+recesses and smoothing the bottoms of grooves.
 </template>
 </category>
 
@@ -9427,7 +9426,7 @@ examine the vagina and cervix.
 <template>
 <random>
 <li>A sperm is a male gamete. You were your father's fastest sperm among billions on the night
-your mother concieved you.</li>
+your mother conceived you.</li>
 <li>The male generative fluid; semen.</li>
 </random>
 </template>
@@ -9780,7 +9779,7 @@ The action of one who thinks or the result of such action; thought.
 <category>
 <pattern>DEFINE THOUGHT</pattern>
 <template>
-A result of thinkingl idea, concept, opinion, etc.
+A result of thinking. Idea, concept, opinion, etc.
 </template>
 </category>
 
@@ -10147,7 +10146,7 @@ PC.</li>
 <category>
 <pattern>DEFINE WEED</pattern>
 <template>
-Any undersired, uncultivated plant, especially growing in profusion so as to crowd out a desired
+Any undesired, uncultivated plant, especially growing in profusion so as to crowd out a desired
 crop, disfigure a lawn, etc.  Also a term for marijuana.
 </template>
 </category>
